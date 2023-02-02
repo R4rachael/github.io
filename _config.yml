@@ -1,6 +1,7 @@
 # Site Build Settings
 
 # baseurl: ""
+url: "https://r4rachael.github.io"
 
 # Jekyll-paginate-v2 configuration
 #  pagination:
