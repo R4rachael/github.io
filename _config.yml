@@ -1,5 +1,7 @@
 # Site Build Settings
 
+baseurl: ""
+
 # Jekyll-paginate-v2 configuration
 #  pagination:
 #   enabled: true
