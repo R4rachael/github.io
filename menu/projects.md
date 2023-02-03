@@ -3,4 +3,4 @@ layout: page
 title: Projects
 permalink: /projects
 ---
-{% include project_list.md %}
+{% include snippets/projectlist.md %}
