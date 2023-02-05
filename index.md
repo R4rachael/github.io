@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rachael Schofield
+title: ""
 subtitle: Wayfinding strategy and design management
 permalink: /index
 ---

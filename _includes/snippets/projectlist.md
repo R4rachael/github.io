@@ -9,4 +9,3 @@
 * Stanhope / Television Centre
 * Unbound / Letters to a Beekeeper
 * Yorkshire Sculpture Park
-* Royal Botanic Garden Edinburgh
