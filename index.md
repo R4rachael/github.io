@@ -9,4 +9,5 @@ With over a decade of experience in the creative industries, Rachael has an exte
 
 Her passion for excellence is combined with a proactive, methodical approach and a keen eye for detail.
 
+
 {% include snippets/projectlist.md %}
