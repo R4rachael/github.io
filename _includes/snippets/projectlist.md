@@ -1,4 +1,4 @@
-## Clients / Projects
+## CLIENTS / PROJECTS
 
 Elephant + Castle Town Centre <br>
 Geffrye Museum / Unlocking the Geffrye <br>
